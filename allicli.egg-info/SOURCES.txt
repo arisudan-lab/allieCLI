@@ -1,0 +1,8 @@
+README.md
+allicli.py
+setup.py
+allicli.egg-info/PKG-INFO
+allicli.egg-info/SOURCES.txt
+allicli.egg-info/dependency_links.txt
+allicli.egg-info/entry_points.txt
+allicli.egg-info/top_level.txt
